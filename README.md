@@ -4,7 +4,7 @@ In statistics, the k-nearest neighbors algorithm is a non-parametric supervised 
 ![image](https://user-images.githubusercontent.com/86295676/179417013-c030ebd3-3225-4e02-b5a1-45803c65c817.png)
 
 ## Code
-knn = KNeighborsClassifier(n_neighbors = 10)
-knn.fit(X_train,y_train)
-y_pred1 = knn.predict(X_test)
-print(accuracy_score(y_test,y_pred1))
+#### knn = KNeighborsClassifier(n_neighbors = 10)
+#### knn.fit(X_train,y_train)
+#### y_pred1 = knn.predict(X_test)
+#### print(accuracy_score(y_test,y_pred1))
