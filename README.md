@@ -4,11 +4,11 @@ In statistics, the k-nearest neighbors algorithm is a non-parametric supervised 
 ![image](https://user-images.githubusercontent.com/86295676/179417013-c030ebd3-3225-4e02-b5a1-45803c65c817.png)
 
 ## Steps involved
-Data Reading using Pandas 
-Data Cleaning
-Data Manipulation
-Data splition into Training and Testing
-Implemeentation of Machine Learning Algorithm
+###### Data Reading using Pandas 
+###### Data Cleaning
+###### Data Manipulation
+###### Data splition into Training and Testing
+###### Implemeentation of Machine Learning Algorithm
 
 ## Code
 ###### knn = KNeighborsClassifier(n_neighbors = 10)
