@@ -3,6 +3,9 @@ In statistics, the k-nearest neighbors algorithm is a non-parametric supervised 
 
 #Code
 knn = KNeighborsClassifier(n_neighbors = 10)
+
 knn.fit(X_train,y_train)
+
 y_pred1 = knn.predict(X_test)
+
 print(accuracy_score(y_test,y_pred1))
